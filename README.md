@@ -77,16 +77,13 @@ Recuerda actualizar tu repositorio (_git push_) cuando hayas terminado tu implem
 Por último, Realiza en forma individual una investigación y reflexión de la importancia y eficiencia del uso de grafos en una situación problema de esta naturaleza, generando un documento llamado **"ReflexAct4_A0XXXXX.3.pdf "**.
 
 ## <span style="color: rgb(26, 99, 169);">**¿Bajo qué criterios se evalúa mi evidencia?**</span>
-
-- **80%** - Para cada una de las funcionalidades se evaluará:
-
-  - **Excelente (80%)** - pasa correctamente todos los casos de prueba.
-  - **Muy Bien (60%)** - pasa correctamente el 75% de los casos de prueba.
-  - **Bien (40%)** - pasa correctamente el 50% de los casos de prueba.
-  - **Insuficiente (20%)** - pasa correctamente menos del 50% de los casos de prueba.
-
-- **10%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación: <span class="instructure_file_holder link_holder">[liga_estándar_codificación](estandar.pdf)</span>
-- **10%** - Se respetenan los nombres de las funciones en la aplicación.
+- **70%** - Cumple correctamente con la funcionalidad requerida por parte de la actividad:
+  - **70%** - Pasa correctamente todos los casos de prueba.
+  - **52%** - Pasa correctamente al menos el 75% de los casos de prueba.
+  - **35%** - Pasa correctamente al menos el 50% de los casos de prueba.
+  - **17%** - Pasa correctamente el 25% o menos de los casos de prueba.
+- **20%** - El documento de reflexión de la importancia y eficiencia del uso grafos en una situación problema de esta naturaleza.
+- **10%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación: 
 
 ## <span style="color: rgb(26, 99, 169);">**¿Dónde la entrego?**</span>
 
